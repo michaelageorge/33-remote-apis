@@ -1,9 +1,9 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## 33-Lab Remote APIs
 
-### Author: Student/Group Name
+### Author: Michael George, Code 401d28
 
 ### Links and Resources
 [![Build Status](https://travis-ci.com/michaelageorge/33-remote-apis.svg?branch=master)](https://travis-ci.com/michaelageorge/33-remote-apis)
